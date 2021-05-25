@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Baby Driver",
+    "summary": "Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers.",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQluwvAAFCa_AXrK6Aex_5zbStjGjLwixcX1zhUYsItB0Gdw5_I",
+    "released": "28 June 2018",
+    "directors": ["Edgar Wright"],
+    "starring": [
+      "Ansel Elgort",
+      "Lily James",
+      "Jon Hamm",
+      "Eiza González"
+    ]
+  },
+  {
+    "title": "Scott Pilgrim vs. the World",
+    "summary": "Scott Pilgrim meets Ramona and instantly falls in love with her. But when he meets one of her exes at a band competition, he realises that he has to deal with all seven of her exes to woo her.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LTAKx5v-BsXPTSlwmnN35T-cl-3GWeeYt0eVkoN92x0cRVJ0",
+    "released": "25 August 2010",
+    "directors": ["Edgar Wright"],
+    "starring": [
+      "Michael Cera",
+      "Mary Elizabeth Winstead",
+      "Chris Evans",
+      "Aubrey Plaza"
+    ]
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "summary": "After gaining superpowers from a spider bite, Miles Morales protects the city as Spider-Man. Soon, he meets alternate versions of himself and gets embroiled in an epic battle to save the multiverse.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS15Qk_nERnp1yp0g_eudjbDow_39q_hbBYNqrDLOztG-tO-vGQ",
+    "released": "12 December 2018",
+    "directors": ["Peter Ramsey", "Rodney Rothman", "Bob Persichetti"],
+    "starring": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Jake Johnson",
+      "Nicolas Cage"
+    ]
+  },
+  {
+    "title": "The Green Mile",
+    "summary": "Paul, the head guard of a prison, meets an inmate, John, an African American who is accused of murdering two girls. His life changes drastically when he discovers that John has a special gift.",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIgyYZPvqwz7YmjZBvWFYEwtFFlsJ-7MDSFxAU7lXt2FgeN_rU",
+    "released": "3 March 2000",
+    "directors": ["Frank Darabont"],
+    "starring": [
+      "Michael Clarke Duncan",
+      "Tom Hanks",
+      "Sam Rockwell",
+      "David Morse"
+    ]
+  },
+  {
+    "title": "Black Beauty",
+    "summary": "A wild horse, transported to Birtwick Stables, comes across Jo Green, a lively teenage girl. Over a period of time, the two develop a friendship that helps Jo overcome challenges.",
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51Hb3z1wFNL._AC_.jpg",
+    "released": "27 November 2020",
+    "directors": ["Ashley Avis"],
+    "starring": [
+      "Mackenzie Foy",
+      "Kate Winslet",
+      "Calam Lynch",
+      "Iain Glen"
+    ]
+  },
+  {
+    "title": "Pulp Fiction",
+    "summary": "In the realm of underworld, a series of incidents intertwines the lives of two Los Angeles mobsters, a gangster's wife, a boxer and two small-time criminals.",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRz_2nKTNlxhVtzbh29kgL3m2ebLv3TlYyzrbyqBtEUxt6mBuZ-",
+    "released": "21 October 1994",
+    "directors": ["Quentin Tarantino"],
+    "starring": [
+      "Quentin Tarantino",
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ]
+  },
+  {
+    "title": "Fight Club",
+    "summary": "Discontented with his capitalistic lifestyle, a white-collared insomniac forms an underground fight club with Tyler, a careless soap salesman. The project soon spirals down into something sinister.",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNgTszE1phYg2G7H4RrgeSEssOw-Kpnh0Si-sF5pVQQrBXJ_6e",
+    "released": "12 November 1999",
+    "directors": ["David Fincher"],
+    "starring": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Jared Leto"
+    ]
+  }
+]
